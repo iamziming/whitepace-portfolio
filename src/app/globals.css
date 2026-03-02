@@ -10,6 +10,11 @@
   --color-foreground: var(--foreground);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
+  
+  /* Custom Tailwind palette */
+  --color-dark: #043873;
+  --color-primary: #4F9CF9;
+  --color-accent: #FFE492;
 }
 
 @media (prefers-color-scheme: dark) {
